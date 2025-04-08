@@ -1,0 +1,1 @@
+This advanced machine learning project helps identify potential biases in hiring data by analyzing relationships between candidate attributes and employment outcomes. Explore correlations, visualize distributions, and detect disparities across protected groups.
